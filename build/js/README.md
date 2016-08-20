@@ -1,0 +1,1 @@
+Built .coffee files uglified JavaScript files will be written to this folder
