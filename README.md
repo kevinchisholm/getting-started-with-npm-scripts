@@ -12,39 +12,61 @@ What you need to run this app:
 
 ### Setup
 
-* Clone this repo: git clone https://github.com/kevinchisholm/getting-started-with-npm-scripts.git
+* Clone this repo:
 
-* Run this command: **npm install**
+````
+git clone https://github.com/kevinchisholm/getting-started-with-npm-scripts.git
+````
 
-### Running the examples
+* Run this command:
 
-#### Build the SASS file only:
+````
+npm install
+````
 
-* npm run build:sass
+## Running the examples
 
-#### Build the .coffee file only:
+### Build the SASS file only:
 
-* npm run build:coffee
+````
+npm run build:sass
+````
 
-#### Uglify the JavaScript file only:
+### Build the .coffee file only:
 
-* npm run build:js
+````
+npm run build:coffee
+````
 
-#### Build SASS, build .coffee and uglify the JavaScript file:
+### Uglify the JavaScript file only:
 
-* npm run build
+````
+npm run build:js
+````
 
-#### Start the web server:
+### Build SASS, build .coffee and uglify the JavaScript file:
 
-* node index.js
+````
+npm run build
+````
 
-#### Start the web server, build SASS, build .coffee and uglify the JavaScript file:
+### Start the web server:
 
-* npm start
+````
+node index.js
+````
 
-#### Delete all built files:
+### Start the web server, build SASS, build .coffee and uglify the JavaScript file:
 
-* npm run clean
+````
+npm start
+````
+
+### Delete all built files:
+
+````
+npm run clean
+````
 
 
 
