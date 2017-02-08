@@ -1,8 +1,6 @@
-[![Node.Js Connect Logo](http://www.nodejsconnect.com//sites/default/themes/drupalconnect/images/layout/logo-lo.png)](http://www.nodejsconnect.com/)
+[![NPM Logo](https://sub1.kevinchisholm.com/blog/images/npm-logo.png)](https://blog.kevinchisholm.com)
 
 # Getting started with npm scripts
-
-## Code Examples for [Node.Js Connect](http://www.nodejsconnect.com/) Blog Post: Getting started with npm scripts.
 
 ## Dependencies
 
